@@ -1,0 +1,2 @@
+adafruit-fingerprint==1.0.0
+pyserial==3.4
